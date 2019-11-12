@@ -2,7 +2,7 @@
 ### *for the S7 Arma 3 community*
 
 ## Table of contents
-- [Setup Guide(#setup-guide)
+- [Setup Guide](#Setup-guide)
 - [Ground](#ground)
 - [Aviation](#aviation)
 - [Medics](#Medics)
