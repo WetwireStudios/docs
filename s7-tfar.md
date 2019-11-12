@@ -58,7 +58,7 @@ General channels for Spartan groups are their platoon # followed by two 0's
 
 > 2nd PLT: `52`
 
-
+### Example
 Lets imagine an infantryman who is a member of Spartan 1-3, Team 4, so their SR Specific is `134`, and their SR General is `100`. These keybindings applied to our theoretical soldier allow him to monitor both channels and intuitively speak on his team specific one, while also maintaining relatively ergonomic access to the general channel.
 
 This means that our theoretical infantryman's radio is configured as such:
