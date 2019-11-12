@@ -83,12 +83,6 @@ This involves the member's radio being set to both two SR channels *(SR(G) and S
 - SR CAS: `410` (SR CH1) (CAPS)
 - LR CAS: `53.2` (LR CH1) (T)
 
-## Binds 
-(Controls -> Configure Addons -> TFAR in dropdown)
-- **LR TRANSMIT** - T
-- **LR TRANSMIT ADDITIONAL** - Y
-- **SR TRANSMIT** - Caps Lock
-- **SR TRANSMIT ADDITIONAL** - Ctrl+Caps Lock
 ***
 # Medics
 Comms layout for medics is much the same as aviation.
