@@ -71,6 +71,10 @@ This means that our theoretical infantryman's radio is configured as such:
  > LR CH1: `51`
  Because he is in Spartan `1`
 
+**Note about LR Radios**
+
+Infantrymen are not implicitly required to carry one, often opting for lower weight or higher carry capacity, although they are allowed and may be used to increase awareness.
+
 ***
 # Aviation
 A member of the aviation group has a far more complicated, but more stable radio setup. It requires that each person who is a member be on 4 channels at once, and they should be able to monitor and speak on all of them with reasonable efficiency. 
