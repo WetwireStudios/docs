@@ -1,4 +1,4 @@
-# Task Force Arrowhead Radio Keybindings Guide
+# Task Force Arrowhead Radio Guide
 ### *for the S7 Arma 3 community*
 
 ## Table of contents
