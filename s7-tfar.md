@@ -42,9 +42,6 @@ eg.
 
 > *2-3, Team 2* would be on frequency `230` or `232`.
 
-#### Note about specific SR frequencies
-Generally, a team will never use their team specific frequency (*ex `143`*) unless they are conducting special business. Usually stick to your base frequency, for example if they were branching off to do something else, which is unlikely. Normally a team will maintain their Squad's frequency. This works in a heirarchical fashion, meaning that to speak to your parent group, you simply remove a place value.
-
 General channels for Spartan groups are their platoon # followed by two 0's
 
 > *Spartan 1* would be on general frequency `100`
@@ -63,6 +60,15 @@ General channels for Spartan groups are their platoon # followed by two 0's
 
 
 Lets imagine an infantryman who is a member of Spartan 1-3, Team 4, so their SR Specific is `134`, and their SR General is `100`. These keybindings applied to our theoretical soldier allow him to monitor both channels and intuitively speak on his team specific one, while also maintaining relatively ergonomic access to the general channel.
+
+This means that our theoretical infantryman's radio is configured as such:
+ > SR CH1: `134`
+ 
+ > SR A2: `100`
+ 
+ and if he has an LR radio:
+ 
+ > LR CH1: `51`
 
 ***
 # Aviation
