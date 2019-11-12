@@ -92,10 +92,11 @@ Comms layout for medics is much the same as aviation.
 - SR Med 2ND PLT: `72` (SR CH1)
 ***
 # FO Squadron
-~~~
+
+***
 
 **HELP!** We need someone who knows about this shit to write this section! Direct message me on discord @endigma#4426, or directly submit a pull request!
 
-~~~
-
 ***
+
+
