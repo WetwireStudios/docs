@@ -63,12 +63,13 @@ Lets imagine an infantryman who is a member of Spartan 1-3, Team 4, so their SR 
 
 This means that our theoretical infantryman's radio is configured as such:
  > SR CH1: `134`
- 
+ Because they are in Spartan `1`-`3` Team `4`.
  > SR A2: `100`
- 
+ Because he is in Spartan `1`
  and if he has an LR radio:
  
  > LR CH1: `51`
+ Because he is in Spartan `1`
 
 ***
 # Aviation
